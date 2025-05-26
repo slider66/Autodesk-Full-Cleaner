@@ -1,5 +1,3 @@
-# Autodesk-Full-Cleaner
-Desinstala todos los programas de Autodesk de manera escalonada y luego limpia el registro y restos del sistema
 # 🧹 Autodesk Full Cleaner
 
 **Limpieza profunda y automatizada de Autodesk en Windows: desinstalación en lote + limpieza de residuos.**
